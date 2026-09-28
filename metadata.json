@@ -1,0 +1,6 @@
+{
+  "name": "Kling AI Video Studio",
+  "description": "Futuristic AI video generation studio with precision prompt controls, temporal camera choreography, real-time rendering simulator, and high-definition video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
